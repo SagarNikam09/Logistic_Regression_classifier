@@ -27,4 +27,4 @@ pip install streamlit numpy matplotlib scikit-learn
 
 Here is what the interface of the Logistic Regression Classifier app looks like:
 
-![Logistic Regression Classifier Interface](output.png)
+[![Logistic Regression Classifier Interface](output.png)](https://github.com/SagarNikam09/Logistic_Regression_classifier/blob/main/Output.png)

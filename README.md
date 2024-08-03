@@ -22,11 +22,9 @@ You can install these packages using pip:
 
 ```bash
 pip install streamlit numpy matplotlib scikit-learn
-
-
+```
 ## Interface Preview
 
 Here is what the interface of the Logistic Regression Classifier app looks like:
 
 ![Logistic Regression Classifier Interface](output.png)
-
